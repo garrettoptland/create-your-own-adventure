@@ -5,4 +5,6 @@ phone down.
 
 [Look under bed.](../look-under-bed/look-under-bed.md)
 
+[Check bathroom.](../check-bathroom/check-bathroom.md)
+
 [Go outside.](../../explore-outside/outside.md)
