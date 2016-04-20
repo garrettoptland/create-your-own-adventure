@@ -3,4 +3,6 @@ detail or clue that might help you figure out what's going on.
 
 [Try the phone.](../use-phone/use-phone.md)
 
+[Check bathroom.](../check-bathroom/check-bathroom.md)
+
 [Go outside.](../../explore-outside/outside.md)
